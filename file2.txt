@@ -1,1 +1,2 @@
 Contenido Fichero1
+segunda linea file 2
